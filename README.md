@@ -1,16 +1,11 @@
-## Hi there 👋
+                                                Hi 👋, I'm Spoorthi K
+ 
+🔗An Electronics and Communication enginner from India, interested in FPGA, VLSI and semiconductor innovations
+- 🌱 I’m currently learning Computer Architecture
+- 📒 My projects are available at GitHub Repositories
+- 💬 Ask me about VLSI, Verilog, microprocessors and controllers
+- 📫 How to reach me kspoorthi156@gmail.com
+- 📄 Learn more about my experience:
+- ⚡ Fun fact: I believe every problem has a solution, sometimes it just needs the right circuit
 
-<!--
-**spoorthi263/spoorthi263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me:
